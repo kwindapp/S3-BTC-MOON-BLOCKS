@@ -9,3 +9,4 @@ and change bootloader to 0x0000
 
 ![WhatsApp Image 2024-09-20 at 00 47 31](https://github.com/user-attachments/assets/52fb8f6b-4046-43ce-b6fe-e4e01d14c485)
 ![WhatsApp Image 2024-09-20 at 12 23 16](https://github.com/user-attachments/assets/e92eb0b9-2818-4648-98fd-bf4da597b5d3)
+![IMG_5186](https://github.com/user-attachments/assets/e8ef6494-38d3-4a91-8002-e31607693537)
