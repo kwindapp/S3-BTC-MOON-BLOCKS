@@ -7,7 +7,8 @@ and change bootloader to 0x0000
 -Enjoy
 <img width="1235" alt="Screenshot 2024-09-18 at 22 28 50" src="https://github.com/user-attachments/assets/e1c62184-66ea-4861-800d-80b51a63429e">
 
-![WhatsApp Image 2024-09-20 at 00 47 31](https://github.com/user-attachments/assets/52fb8f6b-4046-43ce-b6fe-e4e01d14c485)
+![WhatsApp Imag![IMG_5193](https://github.com/user-attachments/assets/fabe2f65-41a6-4744-8efb-52c9c29294ef)
+e 2024-09-20 at 00 47 31](https://github.com/user-attachments/assets/52fb8f6b-4046-43ce-b6fe-e4e01d14c485)
 ![WhatsApp Image 2024-09-20 a![IMG_5193](https://github.com/user-attachments/assets/a75769ac-8774-4d9d-b954-a63f6df1c45e)
 t 12 23 16](https://github.com/user-attachments/assets/e92eb0b9-2818-4648-98fd-bf4da597b5d3)
 ![IMG_5186](https://github.com/user-attachments/assets/e8ef6494-38d3-4a91-8002-e31607693537)
