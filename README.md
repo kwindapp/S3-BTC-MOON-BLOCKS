@@ -3,7 +3,7 @@ https://esp.huhn.me/
 -Flash Settings.
 -Hold the Boot Button
 and change bootloader to 0x0000
--After Flash search Wifi and connect to KWind IoT... connect your Wifi
+-After flash search Wifi and connect to KWind IoT... connect your Wifi
 -Enjoy
 <img width="1235" alt="Screenshot 2024-09-18 at 22 28 50" src="https://github.com/user-attachments/assets/e1c62184-66ea-4861-800d-80b51a63429e">
 
